@@ -1,4 +1,5 @@
 
+//Addressing function, provide the way to calculate the effective address.
 public class Addressing {
 
 	private static String stepInformation;
